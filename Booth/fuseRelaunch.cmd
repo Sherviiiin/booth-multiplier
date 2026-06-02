@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Sh/Desktop/VHDL_Project/Booth/Booth_tb_isim_beh.exe" -prj "C:/Users/Sh/Desktop/VHDL_Project/Booth/Booth_tb_beh.prj" "work.Booth_tb" 

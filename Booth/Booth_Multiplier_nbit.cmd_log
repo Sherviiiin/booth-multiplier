@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Sh/Desktop/VHDL_Project/Booth/Booth_Multiplier_nbit.xst" -ofn "C:/Users/Sh/Desktop/VHDL_Project/Booth/Booth_Multiplier_nbit.syr" 

@@ -1,0 +1,5 @@
+vhdl isim_temp "SIMPLE_OR.vhd"
+vhdl isim_temp "OR_GATE.vhd"
+vhdl isim_temp "MUX2x1.vhd"
+vhdl isim_temp "DFF.vhd"
+vhdl isim_temp "counter.vhd"
