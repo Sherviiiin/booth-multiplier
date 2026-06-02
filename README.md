@@ -18,7 +18,7 @@ Controlled Down Counter
 
 Full Design
 <p align="center">
-  <img src="./image/final-design.png" width="300">
+  <img src="./image/final-design.png" width="500">
 </p>
 
 ## Features
