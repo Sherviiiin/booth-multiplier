@@ -6,11 +6,11 @@ This repository contains a university course project focused on designing and im
 
 ## Booth Multiplication Design
 
-![Booth Logic](./image/booth-logic.png)
-
-![Controlled Down Counter](./image/controlled-down-counter.png)
-
-![Final Design](./image/final-design.png)
+<p>
+  <img src="./image/booth-logic.png" width="250">
+  <img src="./image/controlled-down-counter.png" width="250">
+  <img src="./image/final-design.png" width="250">
+</p>
 
 ## Features
 
